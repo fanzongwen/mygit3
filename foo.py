@@ -1,5 +1,4 @@
 print('Second print')
-print('After second print')
 print('Third print')
 print('Fourth print')
 print('Test print')
